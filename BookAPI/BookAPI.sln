@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookAPI", "BookAPI\BookAPI.csproj", "{133AC476-E5F4-4569-9979-28854F246DA3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{9CBA9F4F-2B1B-4C3D-96E8-4FFC1C95CF43}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{2734AFC3-DD8D-4BC1-94A1-277580127C25}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebAPI", "WebAPI", "{4A018909-13F6-4577-A74A-910C2B71E31B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookAPI.Infrastructure.Persistance", "BookAPI.Infrastructure.Persistance\BookAPI.Infrastructure.Persistance.csproj", "{9629FC68-EC7A-45A0-AF94-F7DDA616FE11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{133AC476-E5F4-4569-9979-28854F246DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{133AC476-E5F4-4569-9979-28854F246DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{133AC476-E5F4-4569-9979-28854F246DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{133AC476-E5F4-4569-9979-28854F246DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9629FC68-EC7A-45A0-AF94-F7DDA616FE11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9629FC68-EC7A-45A0-AF94-F7DDA616FE11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9629FC68-EC7A-45A0-AF94-F7DDA616FE11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9629FC68-EC7A-45A0-AF94-F7DDA616FE11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{133AC476-E5F4-4569-9979-28854F246DA3} = {4A018909-13F6-4577-A74A-910C2B71E31B}
+		{2734AFC3-DD8D-4BC1-94A1-277580127C25} = {9CBA9F4F-2B1B-4C3D-96E8-4FFC1C95CF43}
+		{4A018909-13F6-4577-A74A-910C2B71E31B} = {9CBA9F4F-2B1B-4C3D-96E8-4FFC1C95CF43}
+		{9629FC68-EC7A-45A0-AF94-F7DDA616FE11} = {2734AFC3-DD8D-4BC1-94A1-277580127C25}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05C9E438-016F-4801-869F-BD53E748A2A5}
+	EndGlobalSection
+EndGlobal

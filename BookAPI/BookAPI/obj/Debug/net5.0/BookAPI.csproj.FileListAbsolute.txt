@@ -1,0 +1,62 @@
+C:\Users\newmo\source\repos\BookAPI\BookAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\newmo\source\repos\BookAPI\BookAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\newmo\source\repos\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.exe
+C:\Users\newmo\source\repos\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.deps.json
+C:\Users\newmo\source\repos\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.runtimeconfig.json
+C:\Users\newmo\source\repos\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.runtimeconfig.dev.json
+C:\Users\newmo\source\repos\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.dll
+C:\Users\newmo\source\repos\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.pdb
+C:\Users\newmo\source\repos\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\newmo\source\repos\BookAPI\BookAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\newmo\source\repos\BookAPI\BookAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\newmo\source\repos\BookAPI\BookAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\newmo\source\repos\BookAPI\BookAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\newmo\source\repos\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.Infrastructure.Persistance.dll
+C:\Users\newmo\source\repos\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.Infrastructure.Persistance.pdb
+C:\Users\newmo\source\repos\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.csproj.AssemblyReference.cache
+C:\Users\newmo\source\repos\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\newmo\source\repos\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.AssemblyInfoInputs.cache
+C:\Users\newmo\source\repos\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.AssemblyInfo.cs
+C:\Users\newmo\source\repos\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.csproj.CoreCompileInputs.cache
+C:\Users\newmo\source\repos\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\newmo\source\repos\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\newmo\source\repos\BookAPI\BookAPI\obj\Debug\net5.0\scopedcss\bundle\BookAPI.styles.css
+C:\Users\newmo\source\repos\BookAPI\BookAPI\obj\Debug\net5.0\staticwebassets\BookAPI.StaticWebAssets.Manifest.cache
+C:\Users\newmo\source\repos\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.RazorTargetAssemblyInfo.cache
+C:\Users\newmo\source\repos\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.csproj.CopyComplete
+C:\Users\newmo\source\repos\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.dll
+C:\Users\newmo\source\repos\BookAPI\BookAPI\obj\Debug\net5.0\refint\BookAPI.dll
+C:\Users\newmo\source\repos\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.pdb
+C:\Users\newmo\source\repos\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.genruntimeconfig.cache
+C:\Users\newmo\source\repos\BookAPI\BookAPI\obj\Debug\net5.0\ref\BookAPI.dll
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.exe
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.deps.json
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.runtimeconfig.json
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.runtimeconfig.dev.json
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.dll
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.pdb
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.Infrastructure.Persistance.dll
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\bin\Debug\net5.0\BookAPI.Infrastructure.Persistance.pdb
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.csproj.AssemblyReference.cache
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.AssemblyInfoInputs.cache
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.AssemblyInfo.cs
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.csproj.CoreCompileInputs.cache
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\obj\Debug\net5.0\scopedcss\bundle\BookAPI.styles.css
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\obj\Debug\net5.0\staticwebassets\BookAPI.StaticWebAssets.Manifest.cache
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.RazorTargetAssemblyInfo.cache
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.csproj.CopyComplete
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.dll
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\obj\Debug\net5.0\refint\BookAPI.dll
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.pdb
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\obj\Debug\net5.0\BookAPI.genruntimeconfig.cache
+C:\Users\newmo\Desktop\NewTech Technical Test\BookAPI\BookAPI\obj\Debug\net5.0\ref\BookAPI.dll
